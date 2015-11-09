@@ -87,6 +87,7 @@ class Tab2 extends React.Component {
   }
 }
 
+// Adoped from https://gist.github.com/maisano/8faf4bd123fa9842f4ea
 const RouteTransition = React.createClass({
   propTypes: {
     pathname: PropTypes.string.isRequired
